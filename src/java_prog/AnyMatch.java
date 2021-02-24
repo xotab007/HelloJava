@@ -1,4 +1,4 @@
-package ru.mirea;
+package java_prog;
 import java.util.stream.Stream;
 
 public class AnyMatch {

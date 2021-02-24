@@ -1,4 +1,4 @@
-package ru.mirea.kovalenko.pr1.Circle;
+package java_prog.pr1.Circle;
 
 public class DemoCircle {
     public static void main(String[] args) {

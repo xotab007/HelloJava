@@ -1,4 +1,4 @@
-package ru.mirea.kovalenko.pr2;
+package java_prog.pr2;
 import java.lang.String;
 
 public class Author {

@@ -1,4 +1,4 @@
-package ru.mirea.kovalenko.pr3;
+package java_prog.pr3;
 
 public class MovableCircle implements Movable {
     private int radius;
@@ -19,7 +19,7 @@ public class MovableCircle implements Movable {
 
     @Override
     public void moveUp() {
-
+        center.moveUp();
     }
 
     @Override

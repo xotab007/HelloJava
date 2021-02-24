@@ -1,4 +1,4 @@
-package ru.mirea.kovalenko.pr2;
+package java_prog.pr2;
 
 public class DemoAuthor {
     public static void main(String[] args) {

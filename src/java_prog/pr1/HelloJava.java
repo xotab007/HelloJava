@@ -1,4 +1,4 @@
-package ru.mirea.kovalenko.pr1;
+package java_prog.pr1;
 import java.util.*;
 import java.lang.System;
 public class HelloJava {

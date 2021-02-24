@@ -1,4 +1,4 @@
-package ru.mirea.kovalenko.pr3;
+package java_prog.pr3;
 
 public abstract class Shape {
     protected String color;

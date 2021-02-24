@@ -1,4 +1,4 @@
-package ru.mirea.kovalenko.pr1.Circle;
+package java_prog.pr1.Circle;
 import java.lang.*;
 
 public class Circle {

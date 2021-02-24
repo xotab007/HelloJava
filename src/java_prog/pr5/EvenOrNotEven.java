@@ -1,4 +1,4 @@
-package ru.mirea.kovalenko.pr5;
+package java_prog.pr5;
 
 public class EvenOrNotEven {
     public static int recursion(double n) {

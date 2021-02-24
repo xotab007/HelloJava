@@ -1,4 +1,4 @@
-package ru.mirea.kovalenko.pr3;
+package java_prog.pr3;
 
 public class TestShape {
     public static void main(String[] args) {
@@ -17,5 +17,9 @@ public class TestShape {
         point.moveUp();
         point.moveLeft();
         System.out.println(point);
+
+        MovableCircle circle = new MovableCircle(1,1,1,1,2);
+        circle.moveUp();
+        System.out.println(circle);
     }
 }
